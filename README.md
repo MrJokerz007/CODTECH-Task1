@@ -1,8 +1,13 @@
 **Name:** Gautam Dadhich
+
 **Company:** CODTECH IT SOLUTIONS
+
 **ID:** CT08DGN
+
 **Domain:** Frontend Web Development
+
 **Duration:** 12th December 2024 to 12th January 2025
+
 **Mentor:** NEELA SANTHOSH KUMAR
 
 ## Overview of the Project
