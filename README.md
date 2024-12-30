@@ -24,15 +24,15 @@ Implement a responsive design using CSS Grid or Flexbox to ensure optimal viewin
 
 
 ### Key Activities:
-Defined project scope and created wireframes to outline website structure and user flow.
+-Defined project scope and created wireframes to outline website structure and user flow.
 
-Developed semantic HTML markup to structure content into logical sections (About, Projects, Contact, etc.).
+-Developed semantic HTML markup to structure content into logical sections (About, Projects, Contact, etc.).
 
-Utilized CSS Grid or Flexbox for creating a flexible and responsive layout, ensuring proper content arrangement on different screen sizes.
+-Utilized CSS Grid or Flexbox for creating a flexible and responsive layout, ensuring proper content arrangement on different screen sizes.
 
-Implemented a navigation menu with smooth scrolling functionality for seamless user experience.
+-Implemented a navigation menu with smooth scrolling functionality for seamless user experience.
 
-Integrated basic JavaScript for interactive elements such as image carousels, form validation, or animations.
+-Integrated basic JavaScript for interactive elements such as image carousels, form validation, or animations.
 
 
 ### Technologies Used:
